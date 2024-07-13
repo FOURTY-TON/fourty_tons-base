@@ -1,2 +1,2 @@
 # fourty_tons-base
-my baselol
+Hello and welcome to fourty tons base!
